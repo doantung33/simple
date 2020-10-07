@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fa667d-708f-4521-b3cd-303299a5f27f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Console.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nhunghtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tablesimple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thoikhoabieu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplehtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplehtml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitle.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitle.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -42,6 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +67,8 @@
       <workItem from="1601976410288" duration="3551000" />
       <workItem from="1601997592189" duration="2392000" />
       <workItem from="1602031701409" duration="2700000" />
-      <workItem from="1602034748708" duration="3667000" />
+      <workItem from="1602034748708" duration="4374000" />
+      <workItem from="1602044437151" duration="977000" />
     </task>
     <servers />
   </component>
@@ -88,10 +84,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601890224374" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601890294447">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602044599264">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601890294447" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602044599264" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1602031923282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
