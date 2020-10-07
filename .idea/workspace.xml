@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3fa667d-708f-4521-b3cd-303299a5f27f" name="Default Changelist" comment="" />
+    <list default="true" id="b3fa667d-708f-4521-b3cd-303299a5f27f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Console.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nhunghtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tablesimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thoikhoabieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplehtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplehtml.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iS0ZggSrxLtZ6xHyrhi9unZx4F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +48,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +61,18 @@
       <updated>1601885749863</updated>
       <workItem from="1601885751312" duration="219000" />
       <workItem from="1601885987485" duration="643000" />
-      <workItem from="1601889932023" duration="4046000" />
+      <workItem from="1601889932023" duration="5079000" />
+      <workItem from="1601907845308" duration="3781000" />
+      <workItem from="1601911650407" duration="7000" />
+      <workItem from="1601911676586" duration="3000" />
+      <workItem from="1601946252092" duration="5440000" />
+      <workItem from="1601952175227" duration="8084000" />
+      <workItem from="1601972195395" duration="1115000" />
+      <workItem from="1601973872826" duration="436000" />
+      <workItem from="1601976410288" duration="3551000" />
+      <workItem from="1601997592189" duration="2392000" />
+      <workItem from="1602031701409" duration="2700000" />
+      <workItem from="1602034748708" duration="3667000" />
     </task>
     <servers />
   </component>
@@ -65,9 +92,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601890294447" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601892512913">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602031923282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601892512913" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602031923282" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601959619331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601959619331" />
   </component>
 </project>
