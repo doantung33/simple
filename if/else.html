@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+if (hour < 18) {
+greeting = "Good day";
+}
+<br>
+if (hour < 18) {
+greeting = "Good day";
+} else {
+greeting = "Good evening";
+}
+<br>
+if (time < 10) {
+greeting = "Good morning";
+} else if (time < 20) {
+greeting = "Good day";
+} else {
+greeting = "Good evening";
+}
+<br>
+<div id="demo"></div>
+<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
+<br>
+<button onclick="this.innerHTML=Date()">The time is?</button>
+<br>
+<p>Click the button to display the date.</p>
+<button onclick="displayDate()">The time is?</button>
+
+<p id="demo"></p>
+</body>
+</html>

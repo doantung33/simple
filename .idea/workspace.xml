@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fa667d-708f-4521-b3cd-303299a5f27f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ul-ol-li.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TTT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if/else.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +70,9 @@
       <workItem from="1602031701409" duration="2700000" />
       <workItem from="1602034748708" duration="4374000" />
       <workItem from="1602044437151" duration="2351000" />
-      <workItem from="1602059209490" duration="2444000" />
+      <workItem from="1602059209490" duration="4608000" />
+      <workItem from="1602081045606" duration="4631000" />
+      <workItem from="1602117814373" duration="6820000" />
     </task>
     <servers />
   </component>
@@ -92,9 +96,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602031923282" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601959619331">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602062262042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601959619331" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602062262042" />
   </component>
 </project>
