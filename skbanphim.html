@@ -5,38 +5,35 @@
     <title>Title</title>
 </head>
 <body onload ="docReady()">
-<img id ="doremon" src="Doraemon.png" style="top: 0; left:0" >
+<img id ="doremon" src="Doraemon.png" style="margin-top: 50px; margin-left:0px" >
 <script>
-    function up() {
-        let element = document.getElementById("doremon");
-        element.style.top =parseInt(element.style.top) -5 +"px"
+    function up(element) {
+        element.style.marginTop =parseInt(element.style.marginTop) -5 + "px"
     }
-    function dowm() {
-        let element = document.getElementById("doremon");
-        element.style.top =parseInt(element.style.top) +5 +"px"
+    function dowm(element) {
+        element.style.marginTop =parseInt(element.style.marginTop) +5 + "px"
     }
-    function left() {
-        let element = document.getElementById("doremon");
-        element.style.left =parseInt(element.style.left) -5 +"px"
+    function left(element) {
+        element.style.marginLeft = parseInt(element.style.marginLeft) -5 + "px"
     }
-    function right() {
-        let element = document.getElementById("doremon");
-        element.style.left =parseInt(element.style.left) +5 +"px"
+    function right(element) {
+        element.style.marginLeft =parseInt(element.style.marginLeft) +5 + "px"
     }
     function move(evt){
+        let element = document.getElementById("doremon");
+
         switch (evt.code){
-            case "LeftArrow":
-                alert("a");
-            left();
+            case "ArrowLeft":
+            left(element);
             break;
-            case 35:
-            right();
+            case "ArrowRight":
+            right(element);
             break;
-            case 33:
-            up();
+            case "ArrowUp":
+            up(element);
             break;
-             case 37:
-             dowm();
+             case "ArrowDown":
+             dowm(element);
              break;
         }
 
