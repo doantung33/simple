@@ -98,7 +98,7 @@
 <h2>Meet Mr. Bob</h2>
 <img src="http://bob.codegym.vn/assets/images/Codegym-bob-RIGHTxWH200.png"
      alt="Mr. Bob" style="height:100px">
-<img src="url" alt="some_text" style="width:width;height:height;">
+<img src="url" alt="some_text" style="width:100px;height:150px;">
 <p>Nếu trình duyệt không tìm thấy hình ảnh,
     nó sẽ hiển thị giá trị của thuộc tính alt:</p>
 
@@ -115,7 +115,7 @@
     <img src="http://bob.codegym.vn/assets/images/Codegym-bob-RIGHTxWH200.png"
          alt="HTML5 Icon" width="128" height="128" float="right">
 </div>
-img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+<img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
 <img src="https://pixelsbyumair.files.wordpress.com/2014/12/cssgif.gif"
      alt="Computer Man" style="width:250px;height:200px;">
 <a href="http://bob.codegym.vn/home" target="_blank">
@@ -155,11 +155,7 @@ img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
 </map>
 
 </body>
-<ul>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
-</ul>
+
 <ul style="list-style-type:disc">
     <li>Coffee</li>
     <li>Tea</li>
@@ -180,11 +176,7 @@ img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
     <li>Tea</li>
     <li>Milk</li>
 </ul>
-<ol>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
-</ol>
+
 <ol type="1">
     <li>Coffee</li>
     <li>Tea</li>
@@ -233,6 +225,136 @@ img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
     <li><a href="#about">About</a></li>
 </ul>
 
+<form>
+    First name:<br>
+    <input type="text" name="firstname" value="Mickey">
+    <br>
+    Last name:<br>
+    <input type="text" name="lastname" value="Mouse">
+    <br><br>
+    <input type="submit" value="Submit">
+</form>
+<form action="https://www.google.com.vn/">
+    <input type="text" name="q"/>
+    <input type="submit" value="Tìm kiếm"/>
+</form>
+<form action="/action_page.php">
+    First name:<br>
+    <input type="text" value="Mickey"><br>
+    Last name:<br>
+    <input type="text" name="lastname" value="Mouse"><br><br>
+    <input type="submit" value="Submit">
+</form>
+<form action="/action_page.php">
+    First name:<br>
+    <input type="text" value="Mickey"><br>
+    Last name:<br>
+    <input type="text" name="lastname" value="Mouse"><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+
+<form action="/action_page.php">
+    Account:
+    <input name="account" type="text"/>
+</form>
+
+<form action="/action_page.php">
+    Password:
+    <input name="password" type="password"/>
+</form>
+
+<form action="/action_page.php">
+    Sở thích:<br/>
+    <label><input name="hobby" value="travel" type="checkbox"/> Du lịch</label> <br/>
+    <label><input name="hobby" value="sport" type="checkbox"/> Thể thao</label> <br/>
+    <label><input name="hobby" value="cooking" type="checkbox"/> Nấu ăn</label> <br/>
+</form>
+
+<form action="/action_page.php">
+    Sở thích:<br/>
+    <label><input name="hobby" value="travel" type="radio" checked/> Du lịch</label> <br/>
+    <label><input name="hobby" value="sport" type="radio"/> Thể thao</label> <br/>
+    <label><input name="hobby" value="cooking" type="radio"/> Nấu ăn</label> <br/>
+</form>
+
+
+<form action="/action_page.php">
+    Account: <input name="account" value="admin" type="text"/><br/>
+    Sở thích:<br/>
+    <label><input name="hobby" value="travel" type="radio" checked/> Du lịch</label> <br/>
+    <label><input name="hobby" value="sport" type="radio"/> Thể thao</label> <br/>
+    <label><input name="hobby" value="cooking" type="radio"/> Nấu ăn</label> <br/>
+    <input type="reset" value="Reset"/>
+</form>
+
+<form method="POST">
+    Account: <input name="account" value="admin" type="text"/><br/>
+    Sở thích:<br/>
+    <label><input name="hobby" value="travel" type="radio" checked/> Du lịch</label> <br/>
+    <label><input name="hobby" value="sport" type="radio"/> Thể thao</label> <br/>
+    <label><input name="hobby" value="cooking" type="radio"/> Nấu ăn</label> <br/>
+    <input type="submit" value="Send data"/>
+</form>
+
+<form method="POST">
+    <input name="secret" value="abcg124faasfjh149dfd" type="hidden"/>
+    Account: <input name="account" value="admin" type="text"/><br/>
+    Sở thích:<br/>
+    <label><input name="hobby" value="travel" type="radio" checked/> Du lịch</label> <br/>
+    <label><input name="hobby" value="sport" type="radio"/> Thể thao</label> <br/>
+    <label><input name="hobby" value="cooking" type="radio"/> Nấu ăn</label> <br/>
+    <input type="submit" value="Send data"/>
+</form>
+
+<form method="POST">
+    <button type="button">
+        <img src="http://codegym.vn/wp-content/uploads/2017/03/CodeGym-3-02-copy.jpg" width="200px"/>
+    </button>
+</form>
+
+<form method="POST">
+    <textarea cols="50" rows="4">This is a very very long text text text text text text text text text text text </textarea>
+</form>
+
+<select name="city">
+    <option value="HN">Hà Nội</option>
+    <option value="HP">Hải Phòng</option>
+    <option value="HU">Huế</option>
+    <option value="DN">Đà Nẵng</option>
+    <option value="SG">Sài Gòn</option>
+</select>
+
+<select name="city" list multiple>
+    <option value="HN">Hà Nội</option>
+    <option value="HP">Hải Phòng</option>
+    <option value="HU">Huế</option>
+    <option value="DN">Đà Nẵng</option>
+    <option value="SG">Sài Gòn</option>
+</select>
+
+
+<h1>A Web Page</h1>
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
+<script>
+    function myFunction() {
+        document.getElementById("demo").innerHTML = "Paragraph changed.";
+    }
+</script>
+
+<button onclick="alert('Xin chào bạn!');">Click me</button>
+
+<h1>What Can JavaScript Do?</h1>
+<p id="demo">JavaScript can change HTML content.</p>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+<h2>What Can JavaScript Do?</h2>
+<p>JavaScript can change HTML attributes.</p>
+<p>In this case JavaScript changes the src (source) attribute of an image.</p>
+<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulbon.gif'">Turn on the light</button>
+<img id="myImage" src="https://www.w3schools.com/js/pic_bulboff.gif" style="width:100px">
+<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulboff.gif'">Turn off the light</button>
 
 
 

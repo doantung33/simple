@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<form>
+<img id = "td" src="a.png" alt="" style="width: 250px">
+<p> Nhấn để quả bóng di chuyển xang phải.</p>
+<input type="button" value="Click Me " onclick="moveRight()">;
+</form>
+<script>
+    let png = document.getElementById("td");
+    png.style.position='relative';
+    png.style.left = "0px";
+    function moveRight(){
+        png.style.left = parseInt(png.style.left) +10 +"px";
+    }
+</script>
 </body>
 </html>
