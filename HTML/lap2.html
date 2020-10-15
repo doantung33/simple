@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="loading."> </p>
+<script>
+    function loading(){
+        for (let i=1 ; i<=99; i++){
+            console.log(i)
+            if (i>= 99){
+                alert("Đã hoàn thành");
+            }
+        }
+    }
+    let count =1
+    function loading2(){
+        document.getElementById("loading").innerHTML = count+"%";
+
+        if (count == 100){
+            alert(" Đã xong");
+            clearInterval(run);
+        }
+
+        count++;
+    }
+    let run = setInterval(loading2,50);
+</script>
+</body>
+</html>
