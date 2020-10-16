@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2> Do You Love Me</h2>
+<button type="button" id ="btnYes" onclick="yes1()";>Yes </button>
+<button type="button" id ="btnNo" onmouseover="no1()";>No</button>
+
+</body>
+<script type="text/javascript">
+    function yes1(){
+        alert("Me too");
+    }
+    function no1(){
+        document.getElementById("btnNo").style.marginLeft=Math.round(Math.random()*window.innerWidth) +"px";
+        document.getElementById("btnNo").style.marginTop= Math.round(Math.random()*window.inputHeight) +"px";
+
+    }
+
+</script>
+</html>

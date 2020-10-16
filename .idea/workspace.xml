@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fa667d-708f-4521-b3cd-303299a5f27f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/daonguocmang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/g.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/gtlonnhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/lap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/timgiatritrongbang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chen-.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doyouloveme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/timgiatritrongbang.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/timgiatritrongbang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,15 @@
       <workItem from="1602560511097" duration="10198000" />
       <workItem from="1602637598405" duration="14579000" />
       <workItem from="1602689978010" duration="6998000" />
-      <workItem from="1602724443349" duration="1048000" />
+      <workItem from="1602724443349" duration="2096000" />
+      <workItem from="1602729831519" duration="4717000" />
+      <workItem from="1602751341869" duration="4420000" />
+      <workItem from="1602766409108" duration="1612000" />
+      <workItem from="1602809854379" duration="1581000" />
+      <workItem from="1602811455039" duration="44000" />
+      <workItem from="1602811519298" duration="2270000" />
+      <workItem from="1602813812372" duration="3473000" />
+      <workItem from="1602820796681" duration="3368000" />
     </task>
     <servers />
   </component>
@@ -142,10 +150,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602407093075" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602496617046">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602725458168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602496617046" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602725458168" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1602513880378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -178,6 +186,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602513880379" />
+    <state x="305" y="0" width="662" height="667" maximized="true" key="dock-window-1" timestamp="1602813790720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" width="662" height="667" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1602813790720" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1602725007983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
